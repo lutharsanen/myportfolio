@@ -23,6 +23,13 @@
                     <b-badge variant="info">Multiprocessing</b-badge>
                     <b-badge variant="info">linux ubuntu server</b-badge>
                 </div>
+                <div>
+                    <p style="text-align: left; margin-top: 20px">
+                        In this group project, we were analyzing the bitcoin network concerning a network structure called 
+                        bow tie structure. My part in this project consisted on building the algorithm to determine if the bitcoin
+                        network recognizable as a bowtie structure and analyze the bitcoin network on some typical network properties. 
+                    </p>
+                </div>
                 </b-card>
                 <b-card
                     border-variant="primary"
@@ -33,7 +40,7 @@
                 >
                     <b-card-text>
                         <b-card-text>
-                            <img src="../assets/baseline_std.png" alt="Plot from BowTie Analysis" class="image">
+                            <img src="../assets/baseline_std.png" alt="Plot from Crow Dynamics project" class="image">
                         </b-card-text>
                     </b-card-text>
                 
@@ -45,6 +52,13 @@
                     <b-badge variant="info">pandas</b-badge>
                     <b-badge variant="info">seaborn</b-badge>
                     <b-badge variant="info">Agent based Modelling</b-badge>
+                </div>
+                <div>
+                    <p style="text-align: left; margin-top: 20px">
+                        In this group project, we simulated a loala wave in an agent based model and investigated
+                        what obstacles could destroy a laola wave. My part in this project was to create the agent-based model,
+                        which simulates the loala wave and added the simulation where  
+                    </p>
                 </div>
 
                 </b-card>
@@ -155,7 +169,6 @@
                     <b-badge variant="info">seaborn</b-badge>
                     <b-badge variant="info">numpy</b-badge>
                     <b-badge variant="info">open-gym</b-badge>
-                    <b-badge variant="info">Linux Server</b-badge>
                     
                 </div>
                 </b-card>
@@ -193,11 +206,12 @@
                 <div>
                     <b-badge variant="info">Python</b-badge>
                     <b-badge variant="info">SciPy</b-badge>
-                    <b-badge variant="info">json parsing</b-badge>
-                    <b-badge variant="info">stats</b-badge>
+                    <b-badge variant="info">json</b-badge>
+                    <b-badge variant="info">preprocessing</b-badge>
+                    <b-badge variant="info">statistics/t-test</b-badge>
                     <b-badge variant="info">pandas</b-badge>
                     <b-badge variant="info">matplotlib</b-badge>
-                    <b-badge variant="info">Linux Server</b-badge>
+                    <b-badge variant="info">LaTex</b-badge>
                     
                 </div>
                 </b-card>
